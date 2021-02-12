@@ -9,3 +9,4 @@ The events are stored in a seperate table inside the database.
 I reccommend you create your own username and password.
 
 calendarData.java features the bulk of the computational thinking in order to generate accurate calendar layouts.
+
